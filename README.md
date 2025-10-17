@@ -39,3 +39,7 @@ Here are some ideas to get you started:
   <!-- <img src="https://github-readme-stats-ten-tau-2o0jkvo5zs.vercel.app/api?username=Naksuuuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/> -->
   <img src="https://github-readme-stats-ten-tau-2o0jkvo5zs.vercel.app/api/top-langs/?username=Naksuuuu&layout=compact&theme=tokyonight" height="165"/>
 </p>
+
+<p align="center">
+  <img src="img/snake.svg" alt="GitHub Snake Animation" />
+</p>
