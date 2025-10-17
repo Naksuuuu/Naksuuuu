@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **Next.Js** Framework
-- How to reach me: [Ariel Wijaya](https://www.instagram.com/ariellwijayaa/).
+### Hi there 👋, I'm Ariel Wijaya
+
+- 🌱 I’m currently learning **Next.js** Framework
+- 🎓 I'm studying at **Pasundan University**
+- 💼 Open for **freelance projects** and collaborations
+- 💬 Ask me about **Web Development**, **React**, or **Next.js**
+- ⚡ Fun fact: I enjoy building clean, functional, and creative websites!
 
 ### 🧠 Skills & Tools
 
@@ -35,9 +40,23 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)
 
-<p align="center">
+<p align="start">
   <!-- <img src="https://github-readme-stats-ten-tau-2o0jkvo5zs.vercel.app/api?username=Naksuuuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/> -->
   <img src="https://github-readme-stats-ten-tau-2o0jkvo5zs.vercel.app/api/top-langs/?username=Naksuuuu&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.instagram.com/ariellwijayaa/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ariel-wijaya-kusuma" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:arielkusuma17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
