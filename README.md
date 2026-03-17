@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)
 
 <p align="start">
-  <img src="https://github-readme-stats-ten-tau-2o0jkvo5zs.vercel.app/api?username=Naksuuuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
+  <!-- <img src="https://github-readme-stats-ten-tau-2o0jkvo5zs.vercel.app/api?username=Naksuuuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/> -->
   <img src="https://github-readme-stats-ten-tau-2o0jkvo5zs.vercel.app/api/top-langs/?username=Naksuuuu&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
